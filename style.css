@@ -9,8 +9,7 @@ body {
     background: #ffb800;
     color: #000;
 }
-
-/* Buttons and icons: only black and white */
+ 
 button {
     background: #fff;
     color: #000;
@@ -30,7 +29,6 @@ i {
     color: inherit;
 }
 
-/* Navbar */
 .navbar {
     display: flex;
     flex-wrap: wrap;
@@ -55,8 +53,6 @@ i {
     display: flex;
     gap: 10px;
 }
-
-/* Hero */
 .hero {
     display: flex;
     flex-wrap: wrap;
@@ -88,8 +84,6 @@ i {
     max-width: 420px;
     height: auto;
 }
-
-/* Order box */
 .order-box {
     background: #fff;
     border: 2px solid #000;
